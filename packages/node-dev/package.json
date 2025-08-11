@@ -60,7 +60,7 @@
     "@types/node": "^16.11.22",
     "change-case": "^4.1.1",
     "copyfiles": "^2.1.1",
-    "inquirer": "^7.0.1",
+    "inquirer": "^8.2.7",
     "n8n-core": "~0.127.0",
     "n8n-workflow": "~0.109.0",
     "oauth-1.0a": "^2.2.6",
